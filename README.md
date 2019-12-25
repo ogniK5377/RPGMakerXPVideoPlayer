@@ -1,5 +1,6 @@
 # RPGMakerXPVideoPlayer
 
+![Image of decoder](https://i.imgur.com/fftGuQb.png)
 A video player for RPG Maker XP with AvCpp, FFmpeg and SDL2
 
 ## Usage
