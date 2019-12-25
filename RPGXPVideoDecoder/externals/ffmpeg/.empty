@@ -1,0 +1,5 @@
+This file exists only to commit the folders to github.
+
+This folder should contain FFMpeg. Below are the required folders:
+externals/ffmpeg/include
+externals/ffmpeg/lib

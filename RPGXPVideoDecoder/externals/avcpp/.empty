@@ -1,0 +1,5 @@
+This file exists only to commit the folders to github.
+
+This folder should contain AvCPP. Below are the required folders:
+externals/avcpp/src
+externals/avcpp/build/src/Release
